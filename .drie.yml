@@ -1,4 +1,1 @@
-environment:
-- !secret 'gAAAAABY_h7l1-8_vBf5DvViURnL8JbK5jaebZiXhRQ7L84_MYX5kYTPHAZZFgY-o2QNfcQBBQgBf5ozFNrizjFYlzeLCgRN9A=='
-installation_id: '21763'
-repo_id: '34465423'
+environment: []
